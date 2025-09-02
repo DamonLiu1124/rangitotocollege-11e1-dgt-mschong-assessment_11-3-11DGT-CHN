@@ -62,3 +62,10 @@ li.dropdown {
   display: block;
 }
 
+.grid {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    gap: 48px;
+    justify-content: center;
+    text-align: center;
+}
