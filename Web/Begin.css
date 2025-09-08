@@ -9,8 +9,8 @@ h1 {
 }
 
 .container img {
-    width: 200px;
-    height: 200px;
+    width: 600px;
+    height: 400px;
 }
 
 .text h2 {
@@ -79,4 +79,11 @@ li.dropdown {
 
 .dropdown:hover .dropdown-content {
   display: block;
+}
+
+.video-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
 }
